@@ -1,1 +1,0 @@
-# mailslot-server-demo
